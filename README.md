@@ -1,3 +1,3 @@
 # Projects_and_TermPapers
 
-Github repository for all project and term paper reports.
+Github repository for all projects, term paper and open lab reports.
